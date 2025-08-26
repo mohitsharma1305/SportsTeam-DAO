@@ -13,7 +13,6 @@ The platform allows fans to purchase membership shares, which grant them both go
 - **Token Standard**: SIP-010 Fungible Token
 - **Development Environment**: Stacks Explorer Sandbox
 - **Network**: Stacks Testnet
-- **Frontend**: HTML/CSS/JavaScript (optional)
 - **Wallet Integration**: Stacks Wallet (Hiro/Xverse)
 
 ## ⚙️ Setup Instructions
@@ -26,7 +25,7 @@ The platform allows fans to purchase membership shares, which grant them both go
 ### Local Development Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sportsteam-dao.git
+git clone https://github.com/mohitsharma1305/sportsteam-dao.git
 cd sportsteam-dao
 
 # Install Clarinet (optional - for local testing)
@@ -45,7 +44,6 @@ clarinet new sportsteam-dao
 ## 📍 Smart Contract Address
 
 **Testnet (Active):** `ST3V2KN3W4M05HPDP5YW1FF4JZZWEB2G5WPKJ0B6R.SportsTeam-DAO`
-**Mainnet:** [Coming Soon]
 
 **Deployment Details:**
 - Transaction: `0x724668dd096ab6e64b473ae19eb3d14b53ef1bd37fd76fc7ea6/cc6692e0ed178`

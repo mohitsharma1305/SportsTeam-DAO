@@ -45,6 +45,10 @@ clarinet new sportsteam-dao
 
 **Testnet (Active):** `ST3V2KN3W4M05HPDP5YW1FF4JZZWEB2G5WPKJ0B6R.SportsTeam-DAO`
 
+Contract ID : ST3V2KN3W4M05HPDP5YW1FF4JZZWEB2G5WPKJ0B6R.SportsTeamDAO
+![alt text](image.png)
+
+
 **Deployment Details:**
 - Transaction: `0x724668dd096ab6e64b473ae19eb3d14b53ef1bd37fd76fc7ea6/cc6692e0ed178`
 - Block Height: #3527687
@@ -200,8 +204,6 @@ Through blockchain technology, we're building a future where every fan can have 
 
 ## Contract Address Details
 
-Contract ID : ST3V2KN3W4M05HPDP5YW1FF4JZZWEB2G5WPKJ0B6R.SportsTeamDAO
-![alt text](image.png)
 
 ## Getting Started
 

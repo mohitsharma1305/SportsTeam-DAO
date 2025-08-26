@@ -105,8 +105,6 @@ contract.call('add-team-revenue', [amount-in-microstx])
           https://github.com/mohitsharma1305/
 - Role: Clarity smart contract development, architecture design
 
-**Additional Contributors:**
-- [Add team member names and roles if working in a group]
 
 ## 📁 Repository Structure
 
